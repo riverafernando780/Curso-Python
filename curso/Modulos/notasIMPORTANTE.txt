@@ -1,0 +1,7 @@
+Los modulos deben siempre guardarse con nombre: nombre_del_modulo.py ya que de no hacerlo no sera posible importar el modulo.
+
+El interprete de python busca los modulos en 2 ubicaciones, en la carpeta en donde esta el "main" y en el path de python, si no esta 
+ahí en principio no podra encontrarlo
+
+El main(uso3_uso_recomendado)_geometria y main_armaduras establecen como usar los modulos de forma facil, sin embargo la menos 
+economica de memoria, esta forma casi siempre se usara a menos que se requiera optimizar recursos

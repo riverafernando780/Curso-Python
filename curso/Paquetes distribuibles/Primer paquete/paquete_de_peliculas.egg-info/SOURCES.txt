@@ -1,0 +1,7 @@
+setup.py
+pack/Pelicula.py
+pack/__init__.py
+paquete_de_peliculas.egg-info/PKG-INFO
+paquete_de_peliculas.egg-info/SOURCES.txt
+paquete_de_peliculas.egg-info/dependency_links.txt
+paquete_de_peliculas.egg-info/top_level.txt

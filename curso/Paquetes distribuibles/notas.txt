@@ -1,0 +1,3 @@
+Es importante tener en cuenta que en principio se recomienda hacer un unico paquete distribuble con sus respectivos modulos pues 
+para incluir subpaquetes se requieren configuraciones especificas al setup.py por otra parte la construcción de paquetes es exactamente 
+la misma que cuando se ocupan de forma local, lo unico importante es el archivo de setup

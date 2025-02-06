@@ -1,0 +1,2 @@
+Note que siempre que una carpeta con modulos se quiera usar como paquete o subpaquete debe crearse un archivo dentro de esa carpeta 
+con el nombre __init__.py

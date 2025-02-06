@@ -1,0 +1,7 @@
+setup.py
+Vectores_y_Areas.egg-info/PKG-INFO
+Vectores_y_Areas.egg-info/SOURCES.txt
+Vectores_y_Areas.egg-info/dependency_links.txt
+Vectores_y_Areas.egg-info/top_level.txt
+vectores_areas/__init__.py
+vectores_areas/modulo_vector.py
